@@ -1,7 +1,8 @@
 # LocationAppsForKotlin
 LocationApps for kotlin learning
 
-Sosyal bir uygulama yazacağımız için sunucuları kullanmamız gerekiyor. Bunun için backend servisi olarak parse kullanacağız. Open source bir platform olan parse birçok kullanım alanı var. Android kotlin için parse kullanacağımız için kütüphanelerini entegre ettik. Kullanıcı girişi, lokasyon bilgileri gibi özellikleri ekledim ve parse kullanarak sunucuya kayıt ettim.
+Sosyal bir uygulama yazacağımız için sunucuları kullanmamız gerekiyor.Bunun için backend servisi olarak parse kullanacağız.Open source bir platform olan parse birçok kullanım alanı var.Android kotlin için parse kullanacağımız için kütüphanelerini entegre ettik.Kullanıcı girişi, lokasyon bilgileri gibi özellikleri ekledim ve parse kullanarak sunucuya kayıt ettim.
+
 ![image](https://user-images.githubusercontent.com/61920968/158148157-34f55e38-7129-411f-aaf6-74e119149f64.png)
 ![image](https://user-images.githubusercontent.com/61920968/158148181-4b85eb95-266c-44a3-a91b-e046c4ad1576.png)
 
